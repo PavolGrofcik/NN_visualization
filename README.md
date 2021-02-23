@@ -1,6 +1,6 @@
 # NN_visualization
 
-*A simple animation of a learning three-layered regression Neural Network*
+*A simple animation of the learning three-layered regression Neural Network*
 
  
 ![NN_visualization](https://github.com/PavolGrofcik/NN_visualization/blob/main/NN_visualization_new.gif)
