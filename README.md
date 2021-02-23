@@ -4,16 +4,15 @@ Názorná animácia učenia regresnej 3 vrstvovej NN siete
  
 ![NN_visualization](https://github.com/PavolGrofcik/NN_visualization/blob/main/NN_visualization_new.gif)
 
-### NN parametre
-Vrstvy: 3  
-Vstupy: 3  
+### NN parameters
+Layers: 3  
+Inputs: 3  
 
-Skrytá vrstva: ReLu  
-Výstupná vrstva: Identita = 1  
-Loss funkcia: MSE, animácia 1 vzorka dát => SE  
+ACF Hidden Layer: ReLu  
+ACF Output Layers: Identity (1)  
+Loss: MSE, in animation 1 sample => SE 
 Learning rate: 0.0007  
 Epochs: 25  
-  
 Dataset: **[QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)**  
 
   
