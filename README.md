@@ -14,8 +14,7 @@ Loss funkcia: MSE, animácia 1 vzorka dát => SE
 Learning rate: 0.0007
 Epochs: 25
   
-Dataset: **QSAR fish toxicity Data Set**  
-Link: https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity 
+Dataset: **[QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)**  
 
 ### Implementácia
 Model & Controller Files: Python
