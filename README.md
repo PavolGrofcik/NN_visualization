@@ -1,6 +1,7 @@
 # NN_visualization
 
-Názorná animácia učenia regresnej 3 vrstvovej NN siete
+*A simple animation of a learning three-layered regression Neural Network*
+
  
 ![NN_visualization](https://github.com/PavolGrofcik/NN_visualization/blob/main/NN_visualization_new.gif)
 
