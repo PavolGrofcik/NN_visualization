@@ -15,9 +15,9 @@ Learning rate: 0.0007
 Epochs: 25  
 Dataset: **[QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)**  
 
-*Notice*
+*Notice:*  
 In the hidden layer there are 2 neurons with its potential equal 0. Since its potential is 0, and 
-ReLu is not diferentiable in point 0, the process of learning (updating weights) does not have
+ReLu is not diferentiable in point 0, the process of learning (updating weights) does not have  
 any effect on them. In order to avoid this trade-off, there are normalization techniques such as 
 *Dropout* or preffered other ReLu variants - Leaky ReLu, Elu... 
   
