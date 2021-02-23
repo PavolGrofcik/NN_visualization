@@ -16,6 +16,6 @@ Epochs: 25
   
 Dataset: **[QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)**  
 
-Implementation:  
+  
 Model & Controller Files: Python  
 GUI: PyQt5 framework  
