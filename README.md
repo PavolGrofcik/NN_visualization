@@ -6,6 +6,8 @@
 ![NN_visualization](https://github.com/PavolGrofcik/NN_visualization/blob/main/NN_visualization_new.gif)
 
 ### NN parameters
+Neural network acting in background as model was implemented from scratch to understand & learn logic in NN on my own.  
+
 **Layers:** 3  
 **Inputs:** 3  
 
