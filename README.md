@@ -10,10 +10,10 @@ Názorná animácia učenia regresnej 3 vrstvovej NN siete
 
 **ACF Hidden Layer:** ReLu  
 **ACF Output Layers:** Identity (1)  
-**Loss:** MSE, in animation 1 sample => SE 
-**Learning rate:** 0.0007  
+**Loss:** MSE, in animation 1 sample => SE   
+**Learning rate:** 0.0007   
 **Epochs:** 25  
-**Dataset:** *[QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)*  
+**Dataset:** [QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)  
 
 **Notice:**  
 In the hidden layer there are 2 neurons with its potential equal 0. Since its potential is 0, and 
