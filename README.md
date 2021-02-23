@@ -12,10 +12,11 @@ Neural network acting in background as a model was implemented from scratch to u
 **Inputs:** 3  
 
 **ACF Hidden Layer:** ReLu  
-**ACF Output Layers:** Identity (1)  
+**ACF Output Layers** Identity (1)  
 **Loss:** MSE, in animation 1 sample => SE   
 **Learning rate:** 0.0007   
 **Epochs:** 25  
+**Weights init:** Normal distribution (0,1)  
 **Dataset:** [QSAR fish toxicity Data Set](https://archive.ics.uci.edu/ml/datasets/QSAR+fish+toxicity)  
 
 **Notice:**  
