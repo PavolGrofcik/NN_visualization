@@ -17,9 +17,9 @@ Názorná animácia učenia regresnej 3 vrstvovej NN siete
 
 **Notice:**  
 In the hidden layer there are 2 neurons with its potential equal 0. Since its potential is 0, and 
-ReLu is not diferentiable in point 0, the process of learning (updating weights) does not have  
+ReLu is not diferentiable in a point 0, the process of learning (updating weights) does not have
 any effect on them. In order to avoid this trade-off, there are normalization techniques such as 
-*Dropout* or preffered other ReLu variants - Leaky ReLu, Elu... 
+*Dropout* or preffered other ReLu variants - Leaky ReLu, Elu, etc... 
   
   
 
